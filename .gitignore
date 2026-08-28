@@ -21,3 +21,6 @@
 # Local editor state
 .vscode/
 .idea/
+
+# Local Claude Code / tooling state
+.claude/
